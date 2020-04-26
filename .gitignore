@@ -74,3 +74,5 @@ typings/
 
 # Test data
 test/data
+
+.DS_Store
